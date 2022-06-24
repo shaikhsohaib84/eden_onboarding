@@ -1,0 +1,42 @@
+.eden {
+    margin: 20px 0px;
+    font-weight: 600;
+}
+
+.txt-family {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ant-steps-item-process>.ant-steps-item-container>.ant-steps-item-icon {
+    background-color: #764AF1 !important;
+}
+
+.create-workspace {
+    background-color: #764AF1 !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+}
+
+.no-margin{
+    margin: 0 !important;
+}
+
+.modal-txt-margin{
+    margin: 0px 0px 4px 0px !important;
+}
+
+.txt-left{
+    text-align: left;
+}
+
+.input-border-radius{
+    border-radius: 4px !important;
+}
+
+.user-modal-margin-bottom{
+    margin-bottom: 20px !important;
+}
+
+#user-footer{
+    display: grid;
+}

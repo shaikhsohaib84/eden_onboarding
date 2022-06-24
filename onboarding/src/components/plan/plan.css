@@ -1,0 +1,7 @@
+.d-flex{
+    display: inline-flex
+}
+
+.ant-card-body {
+    padding: 31px !important;
+}

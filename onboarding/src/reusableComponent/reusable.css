@@ -1,0 +1,34 @@
+.header{
+    display: inline-flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.step-margin{
+    margin-bottom: 20px !important;
+}
+
+.title{
+    font-weight: 600;
+}
+
+.grey{
+    color: #73777B;
+}
+
+.card{
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.card-active-border{
+    border: 2px solid #764AF1;
+}
+
+.card-unactive-border{
+    border: 2px solid #73777B;
+}
+
+.card-width{
+    width: 250px
+}
