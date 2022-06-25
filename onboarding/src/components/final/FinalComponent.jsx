@@ -42,7 +42,7 @@ export const FinalComponent = memo(() => {
                 <FontAwesomeIcon icon={faCircleCheck} color="#764AF1" />
             </div>
             <UserContainer
-                title="Congratulations, Eren!"
+                title={`Congratulations, ${displayName}!`}
                 subTitle="You have completed onboarding, you can start using Eden!"
                 Modal={
                     <div id="user-footer">
